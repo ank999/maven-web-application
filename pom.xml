@@ -101,10 +101,10 @@
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://18.234.113.30:8081/repository/wallmart-release/</url>
 	    </repository>
-	    
+		
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>Mithun Technologies Snapshot Nexus Repository</name>
 	      <url>http://18.234.113.30:8081/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
