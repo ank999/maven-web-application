@@ -27,14 +27,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 	</properties>
-        <repositories>
-    	    <repository>
-        	<id>nexus</id>
-        	<name>remote repo mss</name>
-        	<url>http://107.21.76.53:8081/repository/remote-repo-mss/</url>
-             </repository>
-        </repositories>
-
+      
 	<dependencies>
 		
 		<dependency>
@@ -50,11 +43,7 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-		  <groupId>com.mss</groupId>
- 		  <artifactId>ant</artifactId>
-		  <version>1.0.0</version>
-		</dependency>
+		
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
